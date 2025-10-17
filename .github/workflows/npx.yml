@@ -25,7 +25,4 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
 
-      - name: Install npx
-        run: npm i npx
-
       - run: npx okcoder1
