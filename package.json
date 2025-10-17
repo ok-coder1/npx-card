@@ -4,6 +4,9 @@
   "description": "okcoder1's card",
   "main": "index.js",
   "bin": "cli.js",
+  "scripts": {
+    "test": "./cli.js"
+  },
   "author": "okcoder1",
   "license": "MIT",
   "dependencies": {
