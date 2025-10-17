@@ -1,0 +1,15 @@
+{
+  "name": "okcoder1",
+  "version": "2.0.0",
+  "description": "okcoder1's card",
+  "main": "index.js",
+  "bin": "cli.js",
+  "author": "okcoder1",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "lolcatjs": "^2.4.3",
+    "minimist": "^1.2.8",
+    "prettyjson": "^1.2.5"
+  }
+}
